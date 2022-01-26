@@ -1,0 +1,80 @@
+/***********************************************************************/
+/***                                                                 ***/
+/***                  This Document is Released Under                ***/
+/***              GNU Affero General Public License v3.0             ***/
+/***                                                                 ***/
+/***  Permissions of this strongest copyleft license are conditioned ***/
+/***  on making available complete source code of licensed works and ***/
+/***  modifications, which include larger works using a licensed     ***/
+/***  work, under the same license. Copyright and license notices    ***/
+/***  must be preserved. Contributors provide an express grant of    ***/
+/***  patent rights. When a modified version is used to provide a    ***/
+/***  service over a network, the complete source code of the        ***/
+/***  modified version must be made available.                       ***/
+/***         https://choosealicense.com/licenses/agpl-3.0/           ***/ 
+/***                                                                 ***/
+/***********************************************************************/
+
+
+
+    Virtual Agile (VitAge) Teams Collective Ltd. Liability Company
+    
+                          Principles
+
+
+
+Virtual Agile (VirAge) Teams Collective Ltd. Liability Company is based 
+on the principles and values of the cooperative movement, such as: 
+self-reliance and self-responsibility, democracy, equality, equity and 
+solidarity.  Members of the Collective believe in the ethical values of 
+trust, honesty, commitment, openness and transparency, equal 
+opportunities and intolerance of any discrimination and harassment.  
+
+1. Voluntary and Open Membership.  Without any discrimination or 
+prejudice, the Collective is open to all people who accepts these 
+Principles and the responsibilities of Owner-Operator of this business, 
+aimed to maximize the gains for all members, through legal and ethical 
+ways of a free enterprise.
+
+2. Democratic Control. One Member – One Vote Principle shall not be 
+questioned or abandoned.  The Collective shall seek consensus among all 
+members to adopt the most important decisions in its life.
+
+3. Member Contributions.  Members contribute equally to the initial 
+capital of the Collective. Members’ competencies, skills and experience 
+define their rate of income that they can earn for themselves and the 
+Collective.  Although this rate differs for all members, the Dynamic 
+Equity Allocation Principle provides for a fair allocation of patronage 
+distributions based on the volume of each member’s contribution in 
+proportion to the total volume received from all members.
+
+4. Autonomy, Independence and Decentralization.  The Collective is a 
+free association of people, teams and other cooperatives that unite on 
+the common technology platform to keep track of members’ contributions 
+and capital allocations, calculate dynamic equity and patronage, enable 
+democratic voting and decision-making mechanisms in an automated and 
+verifiable ways to maintain trust and privacy.
+
+5. Continuous Improvement.  The Collective is seeking better ways to 
+build products and services, either for external clients, or developing 
+internal systems, processes and operations.  Lean-Agile mindset of the 
+members makes the quest for execution excellence, product quality and 
+efficiency in operations the foundational principal to live by and 
+measure success in all teams and individuals.  This principle is also 
+supported by the Continuous Learner mindset that all members nurture 
+and support. 
+
+6. Support of the Cooperative Movement.  As the success of the 
+Collective in the Knowledge-based industry solidifies, the Collective 
+will support, through its business, cooperatives in other industries.
+
+7. Innovation and Best Practices.  The Collective will creatively adapt 
+and apply knowledge generated in the forward thinking organizations, 
+for technology solutions and process organization, like The Agile 
+Manifesto, SAFe Principles, The 12 Factor App methodology, The Reactive 
+Manifesto and the AWS’s Well Architected Framework, to fit the needs of 
+a different entity: a decentralized federation of agile teams, 
+responsible for creating new value streams and in charge of the fruits
+of their labor.
+ 
+ 
